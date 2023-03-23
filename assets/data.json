@@ -6,7 +6,7 @@
       "elena.jpg",
       "elena.jfif"
     ],
-    "audio":"audio.mp3"
+    "audio":"audio1.mp3"
   },
   {
     "title": "El Abrazo de Acero en el Támesis",
@@ -15,7 +15,7 @@
       "londonbr.jpg",
       "london.jfif"
     ],
-    "audio":"audio.mp3"
+    "audio":"audio3.mp3"
   },
   {
     "title": "La Dama de Hierro",
@@ -32,6 +32,6 @@
       "bookf.jfif",
       "book.jfif"
     ],
-    "audio":"audio.mp3"
+    "audio":"audio2.mp3"
   }
 ]}

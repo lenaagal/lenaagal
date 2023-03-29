@@ -1,7 +1,7 @@
 {"data":[
   {
-    "title": "Lenagal.  La Artista de los Sueños",
-    "description": "Elena Alonso Galindo, La chica de Loranca con su lápiz y su papel, crea mundos de ensueño. Diseña con maestría, colores y formas, dando vida a sus ideas más profundas. Su arte es un reflejo de su alma, y sus diseños, un portal a su imaginación. En su presencia, se siente la pasión y la dedicación que pone en cada trazo, convirtiendo sus dibujos en una ventana al corazón. Ella es la artista de los sueños, y su talento, una bendición para quienes lo contemplan.",
+    "title": "Lenagal - Diarios de una pepineta",
+    "description": "Hola Elena, esto no es una descripción sobre ti, esto es (o espero que lo sea) tu página web. Dale al play de abajo y escucha lo que el Luis de marzo te tiene que decir. Si tienes cualquier duda, no dudes en preguntarme.",
     "imgs": [
       "elena.jpg",
       "elena.jfif"
@@ -9,8 +9,8 @@
     "audio":"audio1.mp3"
   },
   {
-    "title": "El Abrazo de Acero en el Támesis",
-    "description": "El Puente de Londres, majestuoso y fuerte, une orillas con su abrazo de acero. En su herradura de hierro se reflejan los destellos del sol, mientras los barcos navegan bajo su estructura colgante. Su grandeza y elegancia, hacen del Támesis un río aún más majestuoso, y los corazones de los que lo cruzan, laten al compás de su imponente presencia.",
+    "title": "Un titulo de otro capitulo",
+    "description": "Los capítulos son atemporales, no va uno detrás de otro, es aleatorio. Puedes poner imágenes, dibujos, descripciones, audios. Si quieres videos, pues también se puede hacer (previo pago en besos).",
     "imgs": [
       "londonbr.jpg",
       "london.jfif"
@@ -18,16 +18,15 @@
     "audio":"audio3.mp3"
   },
   {
-    "title": "La Dama de Hierro",
-    "description": " La Torre Eiffel, majestuosa y valiente, se alza imponente en el horizonte de la ciudad de la luz. Como una dama de hierro, se eleva hacia el cielo, firme y decidida, como si desafiara al mundo entero. Sus formas retorcidas y sus detalles intrincados, son una obra de arte que inspira a todos aquellos que la contemplan. Desde lo alto de su estructura de acero, se puede ver toda la ciudad de París, y sentir cómo el viento acaricia el rostro. La Torre Eiffel es un símbolo de la fuerza y la belleza, una maravilla del mundo moderno que nunca deja de asombrar",
+    "title": "Capítulo sin audio",
+    "description": "Y con solo una imagen, para que veas que puede ser de cualquier manera.",
     "imgs": [
-      "eiffelf.jfif",
       "eiffel.jfif"
     ]
   },
   {
-    "title": "El Laberinto de las Palabras",
-    "description": "Este libro es un viaje a través del laberinto de las palabras, donde la imaginación y la realidad se fusionan en un solo universo. Cada página es un misterio que se revela ante los ojos del lector, una aventura que le lleva a descubrir nuevos mundos y conocer personajes inolvidables. Con cada giro de página, las letras cobran vida, convirtiendo la lectura en una experiencia mágica y transformadora. El Laberinto de las Palabras es un tesoro oculto que aguarda a ser descubierto, un libro que dejará una huella imborrable en el corazón y en la mente del lector.",
+    "title": "Otro capítulo más",
+    "description": "Puedes usar las herramientas que quieras, a mi con darme una descripción, un título, fotos, un audio si lo quieres, yo lo meto. Te quiero mucho.",
     "imgs": [
       "bookf.jfif",
       "book.jfif"
